@@ -1,0 +1,3 @@
+/home/zhouxinyu/Documents/code/c++学习/DAY_1/build/CMakeFiles/rebuild_cache.dir
+/home/zhouxinyu/Documents/code/c++学习/DAY_1/build/CMakeFiles/helloworld.dir
+/home/zhouxinyu/Documents/code/c++学习/DAY_1/build/CMakeFiles/edit_cache.dir
